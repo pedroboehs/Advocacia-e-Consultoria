@@ -60,6 +60,26 @@ Document project-specific conventions as they're established:
 - PR review process
 - Deployment procedures
 
+## Identidade Visual
+
+Este projeto possui uma skill local de referência visual: `/identidade-visual`
+
+**Como usar:**
+- Digite `/identidade-visual` para invocar a skill quando criar qualquer material visual
+- A skill aciona automaticamente ao mencionar: identidade visual, marca, design, estilo, logo, papelaria, apresentações, documentos visuais
+
+**Referências visuais:**
+- Localização: `05. IDENTIDADE VISUAL/Referências/` (15 imagens)
+- Perfil estético: Executivo e sofisticado, tons sóbrios (cinza, bege, marrom), detalhes refinados
+- Estilo: Design contemporâneo elegante, ambientes corporativos de alto padrão, iluminação quente
+
+**Quando usar:**
+- Criar cabeçalhos de cartas e papelaria
+- Desenhar logos e marca visual
+- Especificar paleta de cores para documentos
+- Estruturar apresentações
+- Criar qualquer material que deva refletir a identidade do escritório
+
 ## Important Notes for Future Claude Instances
 
 - Add project-specific knowledge here that would help future Claude Code sessions
