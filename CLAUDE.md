@@ -2,6 +2,23 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## GitHub Sync
+
+Este projeto está configurado com sincronização automática com GitHub. A cada commit realizado localmente, as mudanças são automaticamente enviadas para o repositório remoto via um git hook (`.git/hooks/post-commit`).
+
+**Configuração inicial:**
+```bash
+# Após criar o repositório em https://github.com/novo/advocacia-consultoria
+git remote add origin https://github.com/seu-usuario/advocacia-consultoria.git
+git branch -M main
+git push -u origin main
+```
+
+**Como funciona:**
+- Cada vez que você faz um `git commit`, o hook automaticamente executa `git push`
+- Isso garante que todas as mudanças sejam sincronizadas com o GitHub em tempo real
+- Se houver erro de sincronização, uma mensagem de aviso será exibida
+
 ## Project Overview
 
 This is a new project for "Advocacia e Consultoria" (Legal Advocacy and Consulting). As the project develops, this document should be updated with:
