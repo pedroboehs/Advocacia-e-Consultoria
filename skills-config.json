@@ -1,0 +1,300 @@
+{
+  "exportVersion": "1.0",
+  "exportDate": "2026-06-02",
+  "project": "Advocacia e Consultoria",
+  "skills": [
+    {
+      "id": "humanizer-pt-br",
+      "name": "Humanizer PT-BR",
+      "description": "Remove traços de escrita gerada por IA de textos em português brasileiro, tornando-os mais naturais, humanos e com personalidade real",
+      "category": "content-processing",
+      "triggers": [
+        "humanizar texto",
+        "remover IA",
+        "texto artificial",
+        "soar natural",
+        "roteiro humano",
+        "reescrever texto",
+        "tirar traços de IA",
+        "texto robótico",
+        "parece IA"
+      ],
+      "useFor": [
+        "Roteiros falados",
+        "Artigos",
+        "Posts",
+        "Roteiros de vídeo",
+        "Qualquer texto que precise soar como escrito por um ser humano real"
+      ],
+      "detects": [
+        "Linguagem promocional",
+        "Estruturas mecânicas",
+        "Vocabulário genérico de chatbot",
+        "Excesso de conectivos",
+        "Frases de preenchimento",
+        "Análises rasas com gerúndio",
+        "Três elementos em lista",
+        "Atribuições vagas",
+        "Conclusões genéricas",
+        "Tom bajulador",
+        "Ganchos dramáticos artificiais",
+        "Intervalos falsos",
+        "Ênfase indevida em notabilidade"
+      ]
+    },
+    {
+      "id": "squad-afiliados",
+      "name": "Squad Afiliados",
+      "description": "Gerencia toda a camada de receita: seleção de produtos afiliados por nicho, gestão de links, criação de info-produtos próprios e acompanhamento de comissões",
+      "category": "monetization",
+      "triggers": [
+        "afiliado",
+        "Hotmart",
+        "Kiwify",
+        "comissão",
+        "monetização",
+        "produto",
+        "info-produto",
+        "link na bio",
+        "renda",
+        "venda",
+        "e-book",
+        "receita"
+      ],
+      "activateWhen": [
+        "Escolher produto afiliado para um post",
+        "Recomendar plataforma de afiliados",
+        "Criar info-produto simples",
+        "Estruturar bio link page",
+        "Analisar comissões por nicho"
+      ]
+    },
+    {
+      "id": "squad-analytics",
+      "name": "Squad Analytics",
+      "description": "Monitora performance de cada conta e post. Identifica o que está viralizando, o que está convertendo e onde o funil está travando. Gera relatórios acionáveis",
+      "category": "performance-monitoring",
+      "triggers": [
+        "analytics",
+        "performance",
+        "métricas",
+        "crescimento",
+        "alcance",
+        "engajamento",
+        "conversão",
+        "relatório",
+        "funil",
+        "está funcionando",
+        "resultados",
+        "dados",
+        "análise"
+      ],
+      "activateWhen": [
+        "Revisar performance de posts",
+        "Entender por que uma conta parou de crescer",
+        "Identificar posts de alto desempenho",
+        "Analisar funil de monetização",
+        "Gerar relatório semanal"
+      ]
+    },
+    {
+      "id": "squad-conteudo",
+      "name": "Squad Conteúdo",
+      "description": "Cria conteúdo adaptado para o público brasileiro a partir de tendências internacionais. Produz roteiros de Reels, legendas otimizadas e define identidade de persona por conta",
+      "category": "content-creation",
+      "triggers": [
+        "roteiro",
+        "legenda",
+        "conteúdo",
+        "Reel",
+        "TikTok",
+        "post",
+        "persona",
+        "calendário editorial",
+        "adaptar conteúdo",
+        "criar vídeo",
+        "script"
+      ],
+      "activateWhen": [
+        "Precisar de roteiro de vídeo",
+        "Legenda para post",
+        "Calendário editorial",
+        "Criar ou manter persona de uma conta",
+        "Adaptar conteúdo do exterior para PT-BR"
+      ]
+    },
+    {
+      "id": "squad-copy",
+      "name": "Squad Copy",
+      "description": "Escreve todos os textos persuasivos do sistema: bio do Instagram, CTAs, copy de landing pages, sequências de venda e textos de afiliados. Especialista em conversão sem parecer publicidade",
+      "category": "copywriting",
+      "triggers": [
+        "copy",
+        "bio",
+        "CTA",
+        "texto de venda",
+        "landing page",
+        "persuasão",
+        "converter",
+        "chamada",
+        "oferta"
+      ],
+      "activateWhen": [
+        "Escrever bio de perfil",
+        "Criar CTA para post",
+        "Montar página de vendas",
+        "Redigir copy de info-produto",
+        "Criar sequência de mensagens",
+        "Refinar qualquer texto de venda"
+      ]
+    },
+    {
+      "id": "squad-design",
+      "name": "Squad Design",
+      "description": "Equipe de design para criação visual",
+      "category": "design",
+      "status": "pending-definition"
+    },
+    {
+      "id": "squad-dev",
+      "name": "Squad Dev",
+      "description": "Equipe de desenvolvimento",
+      "category": "development",
+      "status": "pending-definition"
+    },
+    {
+      "id": "squad-orquestrador",
+      "name": "Squad Orquestrador",
+      "description": "Orquestra e coordena fluxos entre squads",
+      "category": "coordination",
+      "status": "pending-definition"
+    },
+    {
+      "id": "squad-tendencias",
+      "name": "Squad Tendências",
+      "description": "Identifica tendências e oportunidades",
+      "category": "trends",
+      "status": "pending-definition"
+    },
+    {
+      "id": "squad-trafego",
+      "name": "Squad Tráfego",
+      "description": "Gerencia estratégias de tráfego e crescimento",
+      "category": "traffic-growth",
+      "status": "pending-definition"
+    },
+    {
+      "id": "identidade-visual",
+      "name": "Identidade Visual",
+      "description": "Guia de identidade visual do escritório de advocacia e consultoria",
+      "category": "brand-identity",
+      "triggers": [
+        "identidade visual",
+        "marca",
+        "branding",
+        "design",
+        "estilo visual",
+        "layout",
+        "papelaria executiva",
+        "cabeçalho de carta",
+        "materiais visuais"
+      ],
+      "activateWhen": [
+        "Criação de documentos visuais",
+        "Logos",
+        "Papelaria",
+        "Apresentações",
+        "Materiais de comunicação",
+        "Qualquer peça gráfica para o escritório"
+      ],
+      "aestheticProfile": {
+        "tone": "Executivo e sofisticado",
+        "colors": ["Cinza", "Bege", "Marrom"],
+        "style": "Design contemporâneo elegante",
+        "details": "Refinados",
+        "lighting": "Quente"
+      },
+      "references": {
+        "location": "05. IDENTIDADE VISUAL/Referências/",
+        "quantity": "15 imagens"
+      }
+    }
+  ],
+  "systemSkills": [
+    {
+      "id": "skill-creator",
+      "name": "Skill Creator",
+      "description": "Criar, modificar e melhorar skills; medir performance"
+    },
+    {
+      "id": "update-config",
+      "name": "Update Config",
+      "description": "Configurar Claude Code via settings.json"
+    },
+    {
+      "id": "keybindings-help",
+      "name": "Keybindings Help",
+      "description": "Customizar atalhos de teclado"
+    },
+    {
+      "id": "verify",
+      "name": "Verify",
+      "description": "Verificar que mudanças funcionam"
+    },
+    {
+      "id": "code-review",
+      "name": "Code Review",
+      "description": "Revisar código para bugs"
+    },
+    {
+      "id": "simplify",
+      "name": "Simplify",
+      "description": "Simplificar código"
+    },
+    {
+      "id": "fewer-permission-prompts",
+      "name": "Fewer Permission Prompts",
+      "description": "Reduzir prompts de permissão"
+    },
+    {
+      "id": "loop",
+      "name": "Loop",
+      "description": "Executar prompt em intervalo recorrente"
+    },
+    {
+      "id": "schedule",
+      "name": "Schedule",
+      "description": "Agendar agentes remotos"
+    },
+    {
+      "id": "claude-api",
+      "name": "Claude API",
+      "description": "Construir apps com Claude API"
+    },
+    {
+      "id": "run",
+      "name": "Run",
+      "description": "Executar o app do projeto"
+    },
+    {
+      "id": "init",
+      "name": "Init",
+      "description": "Inicializar arquivo CLAUDE.md"
+    },
+    {
+      "id": "review",
+      "name": "Review",
+      "description": "Revisar pull request"
+    },
+    {
+      "id": "security-review",
+      "name": "Security Review",
+      "description": "Revisar segurança de mudanças"
+    }
+  ],
+  "metadata": {
+    "totalCustomSkills": 11,
+    "totalSystemSkills": 14,
+    "version": "1.0"
+  }
+}
